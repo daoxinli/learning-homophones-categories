@@ -1,9 +1,0 @@
-﻿phase,word,video1,video2,video3,video4
-learning,1,lift_L_dog1_low,lift_R_butterfly1_low,turn_R_butterfly2_low,turn_L_dog2_low
-learning,2,lift_L_pine1_low,turn_R_lily1_low,lift_R_lily2_low,turn_L_pine2_low
-learning,3,turn_R_violin1_low,turn_L_saxophone1_low,lift_L_saxophone2_low,lift_R_violin2_low
-learning,4,turn_R_tshirt1_low,lift_L_jeans1_low,turn_L_jeans2_low,lift_R_tshirt2_low
-learning,5,turn_R_pepper1_low,turn_R_steak1_low,lift_L_steak2_low,lift_L_pepper2_low
-learning,6,turn_R_sofa1_low,lift_L_shelf1_low,turn_R_shelf2_low,lift_L_sofa2_low
-learning,7,lift_R_scissors1_low,lift_R_shovel1_low,turn_L_shovel2_low,turn_L_scissors2_low
-learning,8,lift_R_car1_low,turn_L_bus1_low,lift_R_bus2_low,turn_L_car2_low
