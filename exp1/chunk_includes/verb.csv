@@ -1,0 +1,5 @@
+﻿sentence,guess1,guess2,correct,audio
+What does 'dax' mean?,Lift,Turn,guess1,dax
+What does 'zep' mean?,Lift,Turn,guess2,zep
+How do you say 'lift' in Tulka?,Dax,Zep,guess1,silence
+How do you say 'turn' in Tulka?,Dax,Zep,guess2,silence

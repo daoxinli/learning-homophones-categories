@@ -1,0 +1,17 @@
+﻿phase,trial,word,label,meaning,image,block
+reminder,1,1,fami,1,dog1,1_1
+reminder,2,1,fami,2,butterfly1,1_2
+reminder,3,2,kefu,1,pine1,2_1
+reminder,4,2,kefu,2,lily1,2_2
+reminder,5,3,lepa,1,violin1,3_1
+reminder,6,3,lepa,2,saxophone1,3_2
+reminder,7,4,nunu,1,tshirt1,4_1
+reminder,8,4,nunu,2,jeans1,4_2
+reminder,9,5,poru,1,pepper1,5_1
+reminder,10,5,poru,2,steak1,5_2
+reminder,11,6,sati,1,sofa1,6_1
+reminder,12,6,sati,2,shelf1,6_2
+reminder,13,7,supo,1,scissors1,7_1
+reminder,14,7,supo,2,shovel1,7_2
+reminder,15,8,tufa,1,sedan1,8_1
+reminder,16,8,tufa,2,bus1,8_2
